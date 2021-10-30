@@ -1,6 +1,6 @@
 [![Run on Repl.it](https://repl.it/badge/github/filipmares/replit-nextjs-ts-template)](https://repl.it/github/filipmares/replit-nextjs-ts-template)
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) which you can run or fork on [Replit](https://repl.it).
 
 ## Getting Started
 
